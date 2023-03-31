@@ -1,11 +1,11 @@
-ChatGPT Twitch Bot
+ChatGPT NightBot
 
 This is the simplest possible nodejs api using express that responds to any request with: 
 ```
 Yo!
 ```
 
-https://YOUR_URL.cyclic.app/gpt/:text
+https://live-nyanya-bot.cyclic.app:text
 
 
 ### Deploy it in 7 seconds: 
