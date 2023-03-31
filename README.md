@@ -1,12 +1,10 @@
 ChatGPT NightBot
 
-This is the simplest possible nodejs api using express that responds to any request with: 
-```
+This is the simplest possible nodejs api using express that responds to any request with:
 
-https://live-nyanya-bot.cyclic.app:text
-
+Yo!
+https://live-nyanya-bot.cyclic.app/gpt/:text
 
 ### Deploy it in 7 seconds: 
 
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
-
