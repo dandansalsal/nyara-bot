@@ -2,8 +2,6 @@ ChatGPT NightBot
 
 This is the simplest possible nodejs api using express that responds to any request with: 
 ```
-Yo!
-```
 
 https://live-nyanya-bot.cyclic.app:text
 
