@@ -45,7 +45,7 @@ app.get('/gpt/:text', async (req, res) => {
     if (response.data.choices) {
         res.send(response.data.choices[0].text)
     } else {
-        res.send("Something went wrong. Try again later!")
+        res.send("Kasih Pertanyaan lah dongo. Kalau gaada pertanyaan bibuw kudu jawab apa?")
     }
 })
 
